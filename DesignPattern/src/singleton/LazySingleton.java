@@ -1,4 +1,4 @@
-package pers.stophemo.singleton;
+package singleton;
 
 // 懒汉式
 public class LazySingleton {

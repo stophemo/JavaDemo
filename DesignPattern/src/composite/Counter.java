@@ -1,4 +1,4 @@
-package pers.stophemo.composite;
+package composite;
 
 /**
  * 统计接口

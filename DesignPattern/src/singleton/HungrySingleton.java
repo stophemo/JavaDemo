@@ -1,4 +1,4 @@
-package pers.stophemo.singleton;
+package singleton;
 
 // 饿汉式
 public class HungrySingleton {

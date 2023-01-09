@@ -1,4 +1,4 @@
-package pers.stophemo.singleton;
+package singleton;
 /**
  * 确保一个类只有一个实例,
  * 而且自行实例化
